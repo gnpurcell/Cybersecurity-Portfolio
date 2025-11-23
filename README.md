@@ -11,7 +11,8 @@ I’m a security-minded analyst focused on SOC, Blue Team, and IR roles.
 I love digging through logs, breaking down attacks, automating annoying tasks, and building strong defensive controls.
 
 **Currently working on:**  
-- CySA+  
+- Sec+
+- CySA+ 
 - Splunk Core User  
 - MITRE ATT&CK Defender  
 - Building out a home SOC lab  
