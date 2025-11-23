@@ -1,7 +1,7 @@
-# Gabriella's Cybersecurity Portfolio  
+# ✨ Gabriella's Cybersecurity Portfolio ✨
 A collection of hands-on defensive security projects demonstrating my skills in SOC analysis, threat hunting, digital forensics, Linux hardening, and governance.  
 
-I specialize in **blue-team, detection engineering, and incident response**, and I build projects that show how I think — not just what I can memorize.  
+I specialize in **blue-team, detection engineering, and incident response**, and I build projects that show how I think, not just what I can memorize.  
 This portfolio highlights practical, real-world scenarios and the workflows I would use in a SOC environment.
 
 ---
@@ -68,7 +68,7 @@ Below are my top security analysis projects with direct links to each folder.
 
 ---
 
-# 🧰 What I Bring to a Security Team
+# What I Bring to a Security Team
 
 - Strong investigation workflows  
 - Clear, concise documentation  
